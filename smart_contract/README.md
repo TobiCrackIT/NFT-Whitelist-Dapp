@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+This project demonstrates how to create a Dapp to whitelist wallet addresses in preparation for the launch of Crypto-Ninja NFT on the Rinkeby Test Network Details of the Smart Contract are as follows:
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Contract Address: 0x92974D3761317eB7672C1fd03541A8dd048Cd84b
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Etherscan : https://rinkeby.etherscan.io/address/0x591e8A07903E7b0f38AD1C971C755211d564377D
